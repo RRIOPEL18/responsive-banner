@@ -1,5 +1,5 @@
 html {
-font-family: Georgia, serif;
+  font-family: Georgia, serif;
 }
 
 .btn {
@@ -9,6 +9,11 @@ font-family: Georgia, serif;
 .btn-ghost {
   color: #fff;
   border-color: #97a49b;
+}
+
+.btn-ghost:hover {
+  background-color: #efefef;
+  border-color: #efefef;
 }
 
 .text {
@@ -39,7 +44,7 @@ font-family: Georgia, serif;
   }
 
   img {
-      position: relative;
+    position: relative;
   }
 
 }

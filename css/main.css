@@ -37,7 +37,7 @@ html {
 @media only screen and (min-width: 60em) {
 
   .text {
-    background-image: linear-gradient(rgba(73, 85, 98, .9), rgba(73, 85, 98, 0));
+    background-image: linear-gradient(rgba(73, 85, 98, 0), rgba(73, 85, 98, .9));
     background-color: transparent;
     position: absolute;
     bottom: 0;

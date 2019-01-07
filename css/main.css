@@ -2,17 +2,22 @@ html {
   background-color: #495562;
 }
 
-.grid {
-  color: #fff;
-}
-
 .btn {
   color: #fff;
 }
 
 .btn-ghost {
   color: #fff;
-  border-color: #fff;
+  border-color: #97a49b;
+}
+
+.text {
+  color: #fff;
+}
+
+img {
+  max-height: 500px;
+  overflow: hidden;
 }
 
 @media only screen and (min-width: 38em) {
@@ -25,7 +30,7 @@ html {
 
 @media only screen and (min-width: 60em) {
 
-  img { position: relative;
+  img {
 
   }
 
